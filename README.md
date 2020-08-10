@@ -12,4 +12,4 @@ Frameworks and Libraries: *Bootstrap, React, Redux, Ruby on Rails, NodeJS* <br>
 Testing: *Jest, RSpec, Capybara* <br>
 Documentation: *Swagger* <br>
 Databases: *PostgreSQL, MySQL, SQLite3, MongoDB* <br>
-Other: *Git version control, Linux, Heroku, Pair programming*
+Other: *Git version control, Linux, Heroku, Pair Programming, Webpack*

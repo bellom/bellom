@@ -1,9 +1,6 @@
 ### 👨‍💻 In My World Coding Is Like Playing A Game So I Enjoy Coding 👨‍💻!!
-![image](https://github.com/bellom/bellom/blob/master/game-play.gif)
-
 
 ![image](https://github.com/bellom/bellom/blob/master/game-play.gif)
-
 
 `I'm currently a full-stack developer working as a Part-Time Technical Support Engineer where I had reviewed 1000+ Pull Request and I am looking for my next full-time web developer role and I look forward to learning new technologies and also deepen my knowledge in my current skills.`
 

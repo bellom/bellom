@@ -1,4 +1,4 @@
-### 👨‍💻 In My World Coding Is Like Playing A Game So I Enjoy Coding 👨‍💻!!
+### 👨‍💻 In My World, Coding Is Like Playing A Game So I Enjoy Coding 👨‍💻!!
 
 ![image](https://github.com/bellom/bellom/blob/master/game-play.gif)
 

@@ -2,7 +2,7 @@
 
 ![image](https://github.com/bellom/bellom/blob/master/game-play.gif)
 
-`I'm currently a full-stack developer working as a part-time Technical Support Engineer where I had reviewed 1000+ Pull Requests and I am looking for my next full-time web developer role and I look forward to learning new technologies and also deepen my knowledge in my current skills.`
+`I'm currently a full-stack developer working as a Lead Code Reviewer`
 
 #### `My technical proficiencies include:` <br>
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)

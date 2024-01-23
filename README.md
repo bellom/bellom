@@ -1,8 +1,17 @@
-### 👨‍💻 In my world, coding is like a game so I enjoy coding 👨‍💻!
+### 👨‍💻 In my world, coding is like a game so I enjoy managing people that code 👨‍💻!
 
 ![image](https://github.com/bellom/bellom/blob/master/game-play.gif)
 
-`I'm currently a full-stack developer working as a Lead Code Reviewer`
+`I'm currently a Project Manager/Scrum Master (CSM) working as a Lead Code Reviewer`
+
+#### `My soft skills include:` <br>
+- Leadership
+- Organisation
+- Multitasking
+- Communication
+- Time Management and Planning
+- Attention to Detail and Active Listening
+
 
 #### `My technical proficiencies include:` <br>
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
